@@ -100,3 +100,4 @@
 30. [Saying bye to 4px spacing and hello to Fibonacci](https://medium.com/@disco_lu/saying-bye-to-4px-spacing-and-hello-to-fibonacci-58477e3ecca3)
 31. [CSS Tricks🔥 Top 10 Mind-Blowing Front-End Tricks! 🔥](https://medium.com/@webdevtales/css-tricks-top-10-mind-blowing-front-end-tricks-457a6f897841)
 32. [Building Scalable Vue.js Applications: A Modular Approach](https://medium.com/@darwishdev.com/building-scalable-vue-js-applications-a-modular-approach-11287e7a674c)
+33. [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
