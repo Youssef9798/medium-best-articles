@@ -66,7 +66,10 @@
 61. [✨ == 15 Open-Source Alternatives to Popular SaaS Tools & Apps 👨‍💻✨](https://blog.stackademic.com/15-open-source-alternatives-to-popular-saas-tools-apps-59a6fc6de03f)
 62. [✨ == 11 Mysterious But Interesting Front-end Tips🌟](https://javascript.plainenglish.io/11-mysterious-but-interesting-front-end-tips-39f98bc416a9)
 63. [✨ == Use Git like a senior engineer](https://levelup.gitconnected.com/use-git-like-a-senior-engineer-ef6d741c898e)
-
+64. [✨ == Day 1: Can You Solve This JavaScript Challenge?](https://javascript.plainenglish.io/day-1-can-you-solve-this-javascript-challenge-13d78000534e)
+65. [✨ == How the NEW CSS Anchor API solved one of the HARDEST web development problems](https://medium.com/@arnoldgunter/how-this-new-css-api-solves-one-of-the-biggest-web-development-problems-69ce290ac95e)
+66. [✨ == Top 7 Powerful Open-Source Projects You’ve Never Heard Of (2025)](https://medium.com/lets-code-future/top-7-powerful-open-source-projects-youve-never-heard-of-2025-3ad55fbe8ed2)
+    
 **Normal Account**:
 1. [Migrating Vue Nx monorepo to Eslint flat config](https://javascript.plainenglish.io/migrating-vue-nx-monorepo-to-eslint-flat-config-75ac67a0df26)  
 2. [Common JavaScript Mistakes Developers Make](https://medium.com/@AALA-IT-Solutions/common-javascript-mistakes-developers-make-d8237672770d)  
@@ -101,3 +104,4 @@
 31. [CSS Tricks🔥 Top 10 Mind-Blowing Front-End Tricks! 🔥](https://medium.com/@webdevtales/css-tricks-top-10-mind-blowing-front-end-tricks-457a6f897841)
 32. [Building Scalable Vue.js Applications: A Modular Approach](https://medium.com/@darwishdev.com/building-scalable-vue-js-applications-a-modular-approach-11287e7a674c)
 33. [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
+34. [The tool is not the skill](https://blog.medium.com/the-tool-is-not-the-skill-bf648c28c9c9)
